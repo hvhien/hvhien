@@ -1,6 +1,6 @@
 # Hi, I'm [Hien](http://hienhv.tech) 👋🏾 👩🏾‍💻
 **About me**
-- 💼I'm a Software Developer
+- 💼I'm a Data Engineer
 - 👨‍💻I'm curent a student at HaUI
 
 **Languages and Tools:**  
